@@ -1,6 +1,6 @@
 -*- markdown -*-
 This is sfpy, another Superfeedr XMPP API Python wrapper. You will need to 
-install xmppy to run it
+install xmpppy to run it
 
 Example:
           
